@@ -1,4 +1,4 @@
-{
+[
   {
     "id": 1,
       "price": "Rs 10",
@@ -36,4 +36,4 @@
     "title": "Chips",
     "thumbnailUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F81vJyb43URL._SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FLays-Classic-Potato-Chips-Ounce%2Fdp%2FB072M1NC4M&tbnid=XKvyTa9InBCcvM&vet=12ahUKEwitkaGoh4TrAhX3DrcAHcmwA2gQMygCegUIARDgAQ..i&docid=ix1GZlP6mZ4GHM&w=1500&h=1500&q=lays&ved=2ahUKEwitkaGoh4TrAhX3DrcAHcmwA2gQMygCegUIARDgAQ"
   }
-}
+]
