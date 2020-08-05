@@ -1,5 +1,6 @@
-[
-  {
+{
+  [
+  "grocery":[{
     "id": 1,
       "price": "Rs 10",
     "title": "Egg",
@@ -25,3 +26,4 @@
     "thumbnailUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcontent.jdmagicbox.com%2Fcomp%2Fnainital%2Fr2%2F9999p5942.5942.180505101042.p9r2%2Fcatalogue%2Fbhini-food-products-nainital-ho-nainital-jam-distributors-j9x14.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FNainital%2FJam-Manufacturers%2Fnct-10279053&tbnid=C19077wvIsngVM&vet=12ahUKEwjxgvGWh4TrAhWv3HMBHd-nA2kQMygCegUIARD2AQ..i&docid=3fNBM3yJYkyDBM&w=470&h=313&itg=1&q=jam&ved=2ahUKEwjxgvGWh4TrAhWv3HMBHd-nA2kQMygCegUIARD2AQ"
   }
 ]
+}
