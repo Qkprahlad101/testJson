@@ -1,5 +1,6 @@
-[
-  {
+{
+  "posts":[
+    {
     "Price": "Rs10",
     "id": 1,
     "title": "Biscuit",
@@ -27,3 +28,4 @@
     "thumbnailUrl": "https://via.placeholder.com/150/6dd9cb"
   }
 ]
+}
