@@ -1,0 +1,40 @@
+{
+  {
+    "id": 1,
+      "price": "Rs 10",
+    "title": "Egg",
+    "thumbnailUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cbsnews.com%2Fnews%2Fcoronavirus-panic-shopping-eggs-prices-have-tripled-in-three-weeks%2F&psig=AOvVaw34DkhzKfhwO19UaDgVk7-1&ust=1596716401010000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiE76CGhOsCFQAAAAAdAAAAABAQ"
+  },
+  {
+    "id": 2,
+      "price": "Rs 10",
+    "title": "Bread",
+    "thumbnailUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsallysbakingaddiction.com%2Fsandwich-bread%2F&psig=AOvVaw1u6KOgHIl14_4hT5Qxo5lm&ust=1596716599021000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjvtYCHhOsCFQAAAAAdAAAAABAD"
+  },
+  {
+    "id": 3,
+    "price": "Rs 10",
+    "title": "Butter",
+    "thumbnailUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.errenskitchen.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fbutter.jpg&imgrefurl=https%3A%2F%2Fwww.errenskitchen.com%2Fcooking-conversions%2Fbutter-measurement-weight-conversions%2F&tbnid=c5Mzj5MwxaEXjM&vet=12ahUKEwjChfaLh4TrAhXG2XMBHctlA3AQMygIegUIARD1AQ..i&docid=6BY5ne7NDNcykM&w=720&h=480&q=butter%20images&ved=2ahUKEwjChfaLh4TrAhXG2XMBHctlA3AQMygIegUIARD1AQ"
+  },
+  {
+
+    "id": 4,
+      "price": "Rs 10",
+    "title": "Jam",
+    "thumbnailUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcontent.jdmagicbox.com%2Fcomp%2Fnainital%2Fr2%2F9999p5942.5942.180505101042.p9r2%2Fcatalogue%2Fbhini-food-products-nainital-ho-nainital-jam-distributors-j9x14.jpg&imgrefurl=https%3A%2F%2Fwww.justdial.com%2FNainital%2FJam-Manufacturers%2Fnct-10279053&tbnid=C19077wvIsngVM&vet=12ahUKEwjxgvGWh4TrAhWv3HMBHd-nA2kQMygCegUIARD2AQ..i&docid=3fNBM3yJYkyDBM&w=470&h=313&itg=1&q=jam&ved=2ahUKEwjxgvGWh4TrAhWv3HMBHd-nA2kQMygCegUIARD2AQ"
+  }
+}
+ {
+    "id": 5,
+    "price": "Rs 10",
+    "title": "Biscuits",
+    "thumbnailUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.yummytummyaarthi.com%2Fwp-content%2Fuploads%2F2018%2F02%2F1-49.jpg&imgrefurl=https%3A%2F%2Fwww.yummytummyaarthi.com%2Fmarie-biscuits-recipe%2F&tbnid=iiNnYzxEcuii7M&vet=12ahUKEwjU4_2fh4TrAhVd6XMBHayHDW8QMygFegUIARCCAg..i&docid=Z1sLR0c6QbprnM&w=768&h=512&q=biscuits&ved=2ahUKEwjU4_2fh4TrAhVd6XMBHayHDW8QMygFegUIARCCAg"
+  }
+   {
+    "id": 6,
+    "price": "Rs 10",
+    "title": "Chips",
+    "thumbnailUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FI%2F81vJyb43URL._SL1500_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.com%2FLays-Classic-Potato-Chips-Ounce%2Fdp%2FB072M1NC4M&tbnid=XKvyTa9InBCcvM&vet=12ahUKEwitkaGoh4TrAhX3DrcAHcmwA2gQMygCegUIARDgAQ..i&docid=ix1GZlP6mZ4GHM&w=1500&h=1500&q=lays&ved=2ahUKEwitkaGoh4TrAhX3DrcAHcmwA2gQMygCegUIARDgAQ"
+  }
+}
